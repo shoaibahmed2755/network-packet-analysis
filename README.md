@@ -1,4 +1,5 @@
 # network-packet-analysis
+Implement a three-node point-to-point network with duplex links between them. Set the queue size, vary the bandwidth, and find the number of packets dropped.
 This code consists of an AWK file (labl.awk) and instructions for using it with a TCL script (labl.tcl) and a simulation program (ns). The AWK script processes the output of the simulation, counting the number of dropped packets.
 
 
